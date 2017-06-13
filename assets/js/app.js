@@ -5,7 +5,7 @@
 let now = $.now() / 1000
 console.log(now)
 
-let attendEndDate = 1497830399
+let attendEndDate = 1497972239
 
 $(function() {
   if(now >= attendEndDate) {
