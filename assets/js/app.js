@@ -1,11 +1,11 @@
 // Create by Max Yi-Hsun Chou
+// Facebook: https://fb.me/yihsunmaxchou
 // on June 7 2017
 // in San Francisco, California
 
 let now = $.now() / 1000
-console.log(now)
 
-let attendEndDate = 1497972239
+let attendEndDate = 1498392000
 
 $(function() {
   if(now >= attendEndDate) {
